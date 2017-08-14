@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255219007797",
+    "firebase_url": "https://tourtour-3b4db.firebaseio.com",
+    "project_id": "tourtour-3b4db",
+    "storage_bucket": "tourtour-3b4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255219007797:android:091fe28de7788e5d",
+        "android_client_info": {
+          "package_name": "com.example.admin.tour_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255219007797-nnm3a3ap3talkhpm5gc6da8s8uf9fn37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.tour_tour",
+            "certificate_hash": "d3e139c365948b7ba9348a641ad25419ee32bc36"
+          }
+        },
+        {
+          "client_id": "255219007797-h26hrpk4mlcsj0e36s4ba0hibffh0c8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_vp1nPHrAT_sBLVxgCjiAvAFmBV56V5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255219007797-h26hrpk4mlcsj0e36s4ba0hibffh0c8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
